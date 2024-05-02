@@ -1,0 +1,42 @@
+{"empleados":[
+
+
+    {  "id":"123-0934",
+    "nombre":"Juan carlos",
+    "edad":24,
+   "email":"jcarlos14@gmail.com"
+   },
+   {  "id":"123-008",
+ "nombre":"mario soto",
+ "edad":24,
+"email":"jmsoto23@gmail.com"
+},
+{  "id":"123-0213",
+ "nombre":"carlos lopez",
+ "edad":24,
+"email":"clopez32@outlot.com"
+}
+
+],
+"temporales":[
+
+
+  {  "id":"123-0934",
+  "nombre":"carlos",
+  "edad":24,
+ "email":"jcarlos14@gmail.com"
+ },
+ {  "id":"123-008",
+"nombre":"Elena",
+"edad":24,
+"email":"jmsoto23@gmail.com"
+},
+{  "id":"123-0213",
+"nombre":"victor",
+"edad":24,
+"email":"clopez32@outlot.com"
+}
+
+]
+
+}
